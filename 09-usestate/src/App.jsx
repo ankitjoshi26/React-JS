@@ -25,7 +25,7 @@
 import React, { useState } from 'react';
 
 const App = () => {
-  const [num, setNum] = useState(0);
+  // const [num, setNum] = useState(0);
   const [data, setData] = useState({user: 'Ankit', age: 21})
 
   // Changing values of variable=>
